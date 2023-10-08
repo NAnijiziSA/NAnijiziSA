@@ -1,3 +1,3 @@
-# NAnizijiSA
+# NAnizijiSA (NASA Hackathon 2023)
 ## Final Project
-[here](https://nanijizisa.github.io)
+[Stellar Backpack](https://nanijizisa.github.io)
