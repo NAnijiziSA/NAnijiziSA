@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 
 const renderer = new THREE.WebGLRenderer();
-renderer.setSize( window.innerWidth*0.8, window.innerHeight*0.8 );
+renderer.setSize( window.innerWidth*0.7, window.innerHeight*0.7 );
 document.body.appendChild( renderer.domElement );
 
 const scene = new THREE.Scene();
